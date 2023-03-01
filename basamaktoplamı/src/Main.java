@@ -10,10 +10,7 @@ public class Main {
         int sayac = 0;
         int tempnumber = number;
 
-        while (number != 0) {
-            number = number / 10;
-            sayac++;
-        }
+
         number = tempnumber;
         System.out.println(number);
         while (number != 0) {

@@ -11,5 +11,6 @@ public class Main {
         result +=(1.0/i);
         }
         System.out.println(result);
+
     }
 }
